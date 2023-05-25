@@ -1,7 +1,7 @@
 # 自邮之翼 - free4inno
 > BUPT, Beijing University of Posts and Telecommunications
 
-![](./img/banner.png)
+![](../img/banner.png)
 
 自邮之翼（请注意是“邮”）是一个项目团队，也是这个项目团队的一系列项目的总称。
 自邮之翼团队是立足于高校的研究团队，主要研究方向是云计算、大数据、移动互联网以及工业互联网技术和应用，强调理论研究与工程实践相结合，相辅相成。
@@ -16,7 +16,7 @@
 **“用心培养有心的学生，切实解决现实的问题”** 是自邮之翼团队一直秉承的学生培养理念。
 自邮之翼团队提出了 **“研究生能力成长的三个维度”** 并认真将其贯彻到团队学生的培养过程中。
 
-<img src="./img/three.png" alt="" style="width: 30%;">
+<img src="../img/three.png" alt="" style="width: 30%;">
 
 - 行业和领域知识的广度
 
