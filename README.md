@@ -47,6 +47,5 @@
 
 KubeIaaS 是基于 Kubernetes 的易于部署和运维、功能完备且易用的私有 IaaS 云解决方案， 旨在充分利用 Kubernetes 的强大能力，将其应用场景从容器云领域拓展到 IaaS 云领域，从而进一步提高基于 Kubernetes 的 IT 基础架构的灵活性和可扩展性。
 
-[项目链接](https://github.com/free4inno/kubeiaas)  
-[观看产品介绍及演示视频](https://www.bilibili.com/video/BV1em4y1C7uE/)
+[项目链接](https://github.com/free4inno/kubeiaas)  [观看产品介绍及演示视频](https://www.bilibili.com/video/BV1em4y1C7uE/)
 
